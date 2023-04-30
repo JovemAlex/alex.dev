@@ -1,0 +1,121 @@
+@media screen and (max-width: 767px) {
+  .about_me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+  }
+
+  .childs-about-me {
+    margin: 10px;
+    width: 80vw;
+  }
+
+  .childs-about-me h1{
+    font-size: 8vw;
+    white-space: pre-wrap;
+  }
+
+  .childs-about-me p{
+    font-size: 4vw;
+    white-space: pre-wrap;
+  } 
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .about_me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+    margin-top: 25px;
+  }
+
+  .childs-about-me {
+    margin: 10px;
+    width: 80vw;
+  }
+
+  .childs-about-me h1{
+    font-size: 4vh;
+    white-space: pre-wrap;
+  }
+
+  .childs-about-me p{
+    font-size: 2vh;
+    white-space: pre-wrap;
+  } 
+
+  .childs-about-me img {
+    width: 45vw;
+    height: 45vh;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .about_me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+    margin-top: 25px;
+  }
+
+  .childs-about-me {
+    margin: 10px;
+    width: 80vw;
+  }
+
+  .childs-about-me h1{
+    font-size: 5vh;
+    white-space: pre-wrap;
+  }
+
+  .childs-about-me p{
+    font-size: 2vh;
+    white-space: pre-wrap;
+  }
+
+  .childs-about-me img {
+    width: 45vw;
+    height: 45vh;
+  }
+
+}
+
+@media (min-width: 1200px) {
+  .about_me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    margin-top: 25px;
+  }
+
+  .childs-about-me {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    width: 600px;
+    height: 500px;
+  }
+
+  .childs-about-me h1{
+    font-size: 5vh;
+    white-space: pre-wrap;
+  }
+
+  .childs-about-me p{
+    font-size: 2vh;
+    margin-top: -23px;
+    white-space: pre-wrap;
+  }
+
+  .childs-about-me img {
+    width: 45vw;
+    height: 45vh;
+  }
+}

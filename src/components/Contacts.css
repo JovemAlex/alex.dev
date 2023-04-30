@@ -1,0 +1,45 @@
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 25px 0px;
+}
+
+.links {
+  display: flex;
+  margin: 25px 0px;
+}
+
+.links a {
+  margin: 15px;
+}
+
+.contact hr {
+  margin: 25px 0px;
+  width: 50vw;
+  border: 1px solid #2f343aec;
+}
+
+.contact span {
+  margin: 25px 0px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.footer_links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer_links a {
+  color: #414141;
+  text-decoration: none;
+  margin: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.footer_links a:hover {
+  color: #4d4d4d;
+  text-decoration: underline;
+}
