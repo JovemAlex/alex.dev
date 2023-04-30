@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alex.dev/static/css/main.8b5f5221.css",
+    "main.js": "/alex.dev/static/js/main.3b631883.js",
+    "static/media/Binary code-pana.svg": "/alex.dev/static/media/Binary code-pana.feb1c3a20f41e57e999b18f20b47a900.svg",
+    "index.html": "/alex.dev/index.html",
+    "main.8b5f5221.css.map": "/alex.dev/static/css/main.8b5f5221.css.map",
+    "main.3b631883.js.map": "/alex.dev/static/js/main.3b631883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b5f5221.css",
+    "static/js/main.3b631883.js"
+  ]
+}
