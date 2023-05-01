@@ -4,10 +4,10 @@ html {
 
 body {
   display: flex;
-  max-width: 2400px;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  margin: 25px 0px;
   background: #1F2836;
   background: radial-gradient(at center top, #1F2836, #010101);
   color: white;

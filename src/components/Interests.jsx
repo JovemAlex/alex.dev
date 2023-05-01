@@ -8,7 +8,7 @@ export class Interests extends Component {
 
         <section className='text_interests'>
           <h1>Um pouco mais sobre mim!</h1>
-          <p>Apaixonado por games e tecnologia, praticante de atividades físicas, amante de música com natureza. Experiência como designer gráfico e no setor administrativo, com formção em logística.</p>
+          <p>Apaixonado por games e tecnologia, praticante de atividades físicas, amante de música com natureza. Experiência como designer gráfico e no setor administrativo, com formação em logística.</p>
         </section>
 
         <section className='image_interests'>

@@ -1,10 +1,10 @@
 @media screen and (max-width: 767px) {
   .about_me {
     display: flex;
-    flex-direction: column;
     justify-content: center;
+    flex-direction: column;
     align-items: center;
-    width: 90vw;
+    margin: 25px 0px;
   }
 
   .childs-about-me {
@@ -89,8 +89,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 1200px;
-    margin-top: 25px;
+    margin: 25px 0px;
   }
 
   .childs-about-me {
