@@ -18,6 +18,7 @@ export class Projects extends Component {
                 href="https://github.com/JovemAlex/trybe-futebol-clube"
                 target='_blank'
                 rel='noreferrer'
+                className='ver-projeto'
               >
                 Ver Projeto!
               </a>
@@ -31,6 +32,7 @@ export class Projects extends Component {
                 href="https://github.com/JovemAlex/BeerFast"
                 target='_blank'
                 rel='noreferrer'
+                className='ver-projeto'
               >
                 Ver Projeto!
               </a>

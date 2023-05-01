@@ -40,8 +40,12 @@
   }
 
   .card p {
-    font-size: 3vw;
+    font-size: 2vh;
     white-space: pre-wrap;
+  }
+
+  .ver-projeto {
+    font-size: 1.6vh;
   }
   
   .project-link {
