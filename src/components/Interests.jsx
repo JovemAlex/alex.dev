@@ -8,10 +8,11 @@ export class Interests extends Component {
 
         <section className='text_interests'>
           <h1>Um pouco mais sobre mim!</h1>
-          <p>Desde criança, sou um grande fã de videogames. Cresci jogando jogos de diversos gêneros e plataformas, e essa paixão me acompanhou por toda a minha vida. Além disso, sempre tive um interesse em estar em contato com a natureza, e gosto de praticar exercícios físicos como uma forma de manter um estilo de vida saudável. A música também é uma grande inspiração para mim, e eu gosto de ouvir diversos estilos e artistas.</p>
-          <p>No início da minha jornada, trabalhei como <strong>Designer gráfico freelancer</strong>. Foi uma experiência incrível, pois me permitiu explorar minha criatividade e trabalhar em projetos desafiadores. Durante esse tempo, desenvolvi habilidades importantes em design gráfico, incluindo <strong>criação de logotipos, identidade visual e design de interface de usuário.</strong></p>
-          <p>Logo depois, decidi cursar <strong>Logística</strong>, onde tive a oportunidade de trabalhar na área administrativa durante <strong>1 ano e 4 meses</strong>. Essa experiência me ajudou a desenvolver habilidades em organização, planejamento e gestão de projetos, que foram fundamentais para o meu crescimento profissional.</p>
-          <p>Mas minha paixão por tecnologia e desenvolvimento web me levou a estudar e me tornar um <strong>Desenvolvedor Web Full-stack</strong>. Agora, eu posso usar minhas habilidades em design e conhecimentos em logística para criar aplicações web personalizadas e escaláveis.</p>
+          <p>Eu sou um grande fã de videogames desde criança e sempre gostei de praticar exercícios físicos e estar em contato com a natureza. A música também é uma grande inspiração para mim.</p>
+          
+          <p> Comecei minha jornada como <strong>Designer gráfico freelancer</strong>, onde pude desenvolver habilidades em design gráfico e trabalhar em projetos desafiadores. Depois, decidi estudar <strong>Logística</strong>, o que me ajudou a desenvolver habilidades em <strong>organização, planejamento e gestão de projetos</strong>.</p>
+
+          <p> No entanto, minha paixão por tecnologia e desenvolvimento web me levou a me tornar um <strong>Desenvolvedor Web Full-stack</strong>, permitindo-me combinar minhas habilidades em design e conhecimentos em Logística para criar aplicações web personalizadas e escaláveis.</p>
         </section>
 
         <section className='image_interests'>

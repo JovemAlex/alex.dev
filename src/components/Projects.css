@@ -50,7 +50,7 @@
   
   .project-link {
     padding: 10px;
-    max-width: 17vw;
+    max-width: 20vw;
     border: 1px solid #cccccc96;
     border-radius: 3vh;
   }
@@ -60,7 +60,10 @@
     transition: 0.5s ease-in-out;
   }
   
-  .card a {
+  .project-link a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: rgb(221, 215, 255);
     margin: auto;
     text-align: center;
@@ -129,7 +132,10 @@
     transition: 0.5s ease-in-out;
   }
   
-  .card a {
+  .project-link a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: rgb(221, 215, 255);
     margin: auto;
     text-align: center;
@@ -198,7 +204,10 @@
     transition: 0.5s ease-in-out;
   }
   
-  .card a {
+  .project-link a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: rgb(221, 215, 255);
     margin: auto;
     text-align: center;
@@ -264,7 +273,10 @@
     transition: 0.5s ease-in-out;
   }
   
-  .card a {
+  .project-link a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: rgb(221, 215, 255);
     margin: auto;
     text-align: center;

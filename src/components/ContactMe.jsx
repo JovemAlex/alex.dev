@@ -27,7 +27,7 @@ export class ContactMe extends Component {
           </p>
         </div>
         <hr />
-        <span>Copyright Alexsandro Andrade 2023</span>
+        <span>© Alexsandro. All rigth reserved</span>
         <div className='footer_links'>
           <a href="#home">Home</a>
           <a href="#interests">Sobre mim</a>
@@ -35,7 +35,7 @@ export class ContactMe extends Component {
           <a href="#projects">Projetos</a>
           <a href="#contacts">Contatos</a>
         </div>
-        <span>MIT License</span>
+        <span>2023</span>
       </footer>
     )
   }
