@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alex.dev/static/css/main.2dba56f5.css",
-    "main.js": "/alex.dev/static/js/main.107734bd.js",
+    "main.css": "/alex.dev/static/css/main.4be26b30.css",
+    "main.js": "/alex.dev/static/js/main.49a8ccca.js",
     "static/media/Binary code-pana.svg": "/alex.dev/static/media/Binary code-pana.feb1c3a20f41e57e999b18f20b47a900.svg",
     "index.html": "/alex.dev/index.html",
-    "main.2dba56f5.css.map": "/alex.dev/static/css/main.2dba56f5.css.map",
-    "main.107734bd.js.map": "/alex.dev/static/js/main.107734bd.js.map"
+    "main.4be26b30.css.map": "/alex.dev/static/css/main.4be26b30.css.map",
+    "main.49a8ccca.js.map": "/alex.dev/static/js/main.49a8ccca.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dba56f5.css",
-    "static/js/main.107734bd.js"
+    "static/css/main.4be26b30.css",
+    "static/js/main.49a8ccca.js"
   ]
 }
