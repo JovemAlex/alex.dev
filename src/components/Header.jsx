@@ -16,7 +16,7 @@ const Header = () => {
         <div className="bar"></div>
       </div>
       <ul className={`menu ${showMenu ? "show" : ""}`}>
-        <li><a onClick={ toggleMenu } href="#home">Home</a></li>
+        <li><a onClick={ toggleMenu } href="#about">Home</a></li>
         <li><a onClick={ toggleMenu } href="#interests">Sobre mim</a></li>
         <li><a onClick={ toggleMenu } href="#stacks">Habilidades</a></li>
         <li><a onClick={ toggleMenu } href="#projects">Projetos</a></li>
